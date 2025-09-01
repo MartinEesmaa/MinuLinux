@@ -16,6 +16,10 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 - [X] PeaZip - Replace 7-Zip Windows GUI
 
+- [ ] Legcord - Export the settings (alternative Discord client)
+
+- [ ] Oracle Virtualbox - Needs to be manually backuped done
+
 # Gaming
 
 - [ ] RPCS3 - Backup all the game files with saves and others
@@ -24,8 +28,14 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 - [X] Lutris - Supports all game marketplace softwares
 
+- [ ] Xenia - A Xbox 360 emulator can easy emulated via Bottles (via Wine on Windows for Linux), needed to backup folder.
+
 # Replacement Windows programs
 
 - [X] Mozilla Thunderbird - This will replace Microsoft Outlook.
+
+- [ ] OnlyOffice or Libreoffice - Replacement of Microsoft 365 apps
+
+- [] Firejail - Replacement of Sandboxie Plus
 
 - Martin Eesmaa
