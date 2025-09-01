@@ -10,7 +10,7 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 **Backup the files**
 
-- [] OBS Studio - Export the profile & settings
+- [ ] OBS Studio - Export the profile & settings
 
 - [X] 7-Zip - it is only CLI for Linux, but PeaZip or built in archiver frontend is available.
 
@@ -18,9 +18,9 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 # Gaming
 
-- [] RPCS3 - Backup all the game files with saves and others
+- [ ] RPCS3 - Backup all the game files with saves and others
 
-- [] Steam - It supports native and also protondb. Also process transfer the saved data files from Steam purchased games.
+- [ ] Steam - It supports native and also protondb. Also process transfer the saved data files from Steam purchased games.
 
 - [X] Lutris - Supports all game marketplace softwares
 
