@@ -18,7 +18,11 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 - [ ] Legcord - Export the settings (alternative Discord client)
 
-- [ ] Oracle Virtualbox - Needs to be manually backuped done
+- [ ] Oracle VirtualBox - Needs to be manually backuped done
+
+- [ ] VLC media player - Manually copy configuration & settings
+
+- [ ] qBittorrent - Copy manual configuration & saved data
 
 # Gaming
 
@@ -30,12 +34,18 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 - [ ] Xenia - A Xbox 360 emulator can easy emulated via Bottles (via Wine on Windows for Linux), needed to backup folder.
 
+- [ ] Sunshine - Just a streaming game server, I have to check configurations I made
+
 # Replacement Windows programs
 
 - [X] Mozilla Thunderbird - This will replace Microsoft Outlook.
 
 - [ ] OnlyOffice or Libreoffice - Replacement of Microsoft 365 apps
 
-- [] Firejail - Replacement of Sandboxie Plus
+- [ ] Firejail - Replacement of Sandboxie Plus
+
+# Miscellanous tools
+
+- [ ] Kleopatra - Export GPG private keys
 
 - Martin Eesmaa
