@@ -8,7 +8,7 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 # Cross platform softwares
 
-**Backup the files**
+**Backup the files and needs to be tested**
 
 - [ ] OBS Studio - Export the profile & settings
 
@@ -40,12 +40,16 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 - [X] Mozilla Thunderbird - This will replace Microsoft Outlook.
 
-- [ ] OnlyOffice or Libreoffice - Replacement of Microsoft 365 apps
+- [ ] OnlyOffice or LibreOffice - Replacement of Microsoft 365 apps
 
-- [ ] Firejail - Replacement of Sandboxie Plus
+- [ ] Firejail - Replacement of Sandboxie Plus and could still use for virtual machine
+
+- [ ] Altserver - There is no official build for Linux, so using unofficial with open source
 
 # Miscellanous tools
 
 - [ ] Kleopatra - Export GPG private keys
+
+- [ ] Git - Needs to copy manual configurations list
 
 - Martin Eesmaa
