@@ -28,13 +28,13 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 - [ ] RPCS3 - Backup all the game files with saves and others
 
-- [ ] Steam - It supports native and also protondb. Also process transfer the saved data files from Steam purchased games.
+- [X] Steam - It supports native and also protondb. Also process transfer the saved data files from Steam purchased games.
 
 - [X] Lutris - Supports all game marketplace softwares
 
 - [ ] Xenia - A Xbox 360 emulator can easy emulated via Bottles (via Wine on Windows for Linux), needed to backup folder.
 
-- [ ] Sunshine - Just a streaming game server, I have to check configurations I made
+- [X] Sunshine - Just a streaming game server, I have to check configurations I made
 
 # Replacement Windows programs
 
@@ -45,6 +45,8 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 - [ ] Firejail - Replacement of Sandboxie Plus and could still use for virtual machine
 
 - [ ] Altserver - There is no official build for Linux, so using unofficial with open source
+
+- [ ] Default text editor - For Notepad++, backup to save all the text files and session
 
 # Miscellanous tools
 
