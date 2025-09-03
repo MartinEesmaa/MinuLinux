@@ -20,7 +20,7 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 - [ ] Oracle VirtualBox - Needs to be manually backuped done
 
-- [ ] VLC media player - Manually copy configuration & settings
+- [X] VLC media player - Manually copy configuration & settings
 
 - [ ] qBittorrent - Copy manual configuration & saved data
 
@@ -52,6 +52,6 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 - [ ] Kleopatra - Export GPG private keys
 
-- [ ] Git - Needs to copy manual configurations list
+- [X] Git - Needs to copy manual configurations list
 
 - Martin Eesmaa
