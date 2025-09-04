@@ -10,7 +10,7 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 **Backup the files and needs to be tested**
 
-- [ ] OBS Studio - Export the profile & settings
+- [X] OBS Studio - Export the profile & settings
 
 - [X] 7-Zip - it is only CLI for Linux, but PeaZip or built in archiver frontend is available.
 
@@ -50,7 +50,7 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 # Miscellanous tools
 
-- [ ] Kleopatra - Export GPG private keys
+- [X] Kleopatra - Export GPG private keys
 
 - [X] Git - Needs to copy manual configurations list
 
