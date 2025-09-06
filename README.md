@@ -16,13 +16,13 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 - [X] PeaZip - Replace 7-Zip Windows GUI
 
-- [ ] Legcord - Export the settings (alternative Discord client)
+- [X] Legcord - Export the settings (alternative Discord client)
 
 - [ ] Oracle VirtualBox - Needs to be manually backuped done
 
 - [X] VLC media player - Manually copy configuration & settings
 
-- [ ] qBittorrent - Copy manual configuration & saved data
+- [X] qBittorrent - Copy manual configuration & saved data
 
 # Gaming
 
