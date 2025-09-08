@@ -6,6 +6,10 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 ***Task lists:***
 
+Linux distribution: Fedora, CachyOS, EndeavourOS or Linux Mint
+
+Disk type format: ext4 or BTRFS
+
 # Cross platform softwares
 
 **Backup the files and needs to be tested**
