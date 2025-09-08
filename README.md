@@ -32,7 +32,7 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 - [X] Lutris - Supports all game marketplace softwares
 
-- [ ] Xenia - A Xbox 360 emulator can easy emulated via Bottles (via Wine on Windows for Linux), needed to backup folder.
+- [X] Xenia - A Xbox 360 emulator can easy emulated via Bottles (via Wine on Windows for Linux), needed to backup folder.
 
 - [X] Sunshine - Just a streaming game server, I have to check configurations I made
 
@@ -40,7 +40,7 @@ Starting late 2025, I will complete switch to Linux once the applications proces
 
 - [X] Mozilla Thunderbird - This will replace Microsoft Outlook.
 
-- [ ] OnlyOffice or LibreOffice - Replacement of Microsoft 365 apps
+- [X] OnlyOffice - Replacement of Microsoft 365 apps
 
 - [ ] Firejail - Replacement of Sandboxie Plus and could still use for virtual machine
 
